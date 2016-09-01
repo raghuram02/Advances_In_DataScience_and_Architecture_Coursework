@@ -1,0 +1,9 @@
+name: TwitterSentimentAnalysis
+account: raghuram02
+server: shinyapps.io
+appId: 113292
+bundleId: 500229
+url: https://raghuram02.shinyapps.io/TwitterSentimentAnalysis/
+when: 1468017882.32982
+asMultiple: FALSE
+asStatic: FALSE

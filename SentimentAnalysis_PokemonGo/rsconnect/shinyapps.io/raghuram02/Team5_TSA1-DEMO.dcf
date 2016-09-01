@@ -1,0 +1,10 @@
+name: Team5_TSA1-DEMO
+account: raghuram02
+server: shinyapps.io
+appId: 114048
+bundleId: 503263
+url: https://raghuram02.shinyapps.io/Team5_TSA1-DEMO/
+when: 1468366552.89848
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|Sentiment_Analysis_Team5.ppt

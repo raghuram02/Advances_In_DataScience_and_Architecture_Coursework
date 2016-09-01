@@ -1,0 +1,9 @@
+Classification - http://assignment3.azurewebsites.net/
+
+Clustering - http://pokemonclustering.azurewebsites.net/
+
+
+Credentials: 
+
+Email Id: inf7390summer2016team5@outlook.com
+password: Team5123

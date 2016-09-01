@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="PokemonClustering" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Lakshmi\\Documents\\Visual\ Studio\ 2015\\Projects\\WebApplication2-Clustering\\WebApplication2-Clustering\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Lakshmi\\Documents\\Visual\ Studio\ 2015\\Projects\\WebApplication2-Clustering\\WebApplication2-Clustering\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
