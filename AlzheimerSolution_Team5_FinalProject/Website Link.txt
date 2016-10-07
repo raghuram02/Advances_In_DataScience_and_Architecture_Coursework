@@ -1,1 +1,1 @@
-http://ec2-52-90-41-141.compute-1.amazonaws.com:8080/AlzheimerSolution/showChart.htm
+http://ec2-52-53-170-90.us-west-1.compute.amazonaws.com:8080/Alzheimer_Solution/prediction.htm
